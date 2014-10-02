@@ -1,0 +1,37 @@
+C:/Users/Colin/Documents/School/EE460M/Lab2/Plus3_Struct.v {1 {vlog -work work -stats=none C:/Users/Colin/Documents/School/EE460M/Lab2/Plus3_Struct.v
+Model Technology ModelSim PE Student Edition vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module Plus3_Struct
+-- Compiling module DFF
+-- Compiling module OR3
+-- Compiling module OR4
+-- Compiling module AND2
+-- Compiling module AND3
+-- Compiling module AND4
+-- Compiling module Inverter1
+
+Top level modules:
+	Plus3_Struct
+
+} {} {}} C:/Users/Colin/Documents/School/EE460M/Lab2/Plus3_Behav.v {1 {vlog -work work -stats=none {C:\Users\Colin\Documents\School\EE460M\Lab2\Plus3_Behav.v}
+Model Technology ModelSim PE Student Edition vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module Plus3_Behav
+
+Top level modules:
+	Plus3_Behav
+
+} {} {}} C:/Users/Colin/Documents/School/EE460M/Lab2/BCDCounter.v {1 {vlog -work work -stats=none C:/Users/Colin/Documents/School/EE460M/Lab2/BCDCounter.v
+Model Technology ModelSim PE Student Edition vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module BCDCounter
+-- Compiling module BCDCounter_100
+
+Top level modules:
+	BCDCounter_100
+
+} {} {}} C:/Users/Colin/Documents/School/EE460M/Lab2/Plus3_Flow.v {1 {vlog -work work -stats=none {C:\Users\Colin\Documents\School\EE460M\Lab2\Plus3_Flow.v}
+Model Technology ModelSim PE Student Edition vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module Plus3_Flow
+
+Top level modules:
+	Plus3_Flow
+
+} {} {}}

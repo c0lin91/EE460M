@@ -1,0 +1,274 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.3c/examples
+vAND2
+Z0 !s110 1412216566
+!i10b 1
+!s100 O:^gZ4Kz[fQ3k<0m8U:;A2
+I32Wc4zc4d<_@^_7YZ3D1S0
+Z1 V`JN@9S9cnhjKRR_L]QIcM3
+Z2 dC:/Users/Colin/Documents/School/EE460M/Lab2
+Z3 w1412210947
+Z4 8C:/Users/Colin/Documents/School/EE460M/Lab2/Plus3_Struct.v
+Z5 FC:/Users/Colin/Documents/School/EE460M/Lab2/Plus3_Struct.v
+L0 80
+Z6 OP;L;10.3c;59
+r1
+!s85 0
+31
+Z7 !s108 1412216566.069000
+Z8 !s107 C:/Users/Colin/Documents/School/EE460M/Lab2/Plus3_Struct.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Colin/Documents/School/EE460M/Lab2/Plus3_Struct.v|
+!s101 -O0
+!i113 1
+Z10 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+n@a@n@d2
+vAND3
+R0
+!i10b 1
+!s100 Vd3fLDjO6f_6W[NmekUQP1
+IA6o4R`d13z9^CEQIAYC]Y0
+R1
+R2
+R3
+R4
+R5
+L0 87
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+n@a@n@d3
+vAND4
+R0
+!i10b 1
+!s100 ]H>g4:oP5B<nh[`GY@4n03
+I0YRY31koz38Y?V870dNWf3
+R1
+R2
+R3
+R4
+R5
+L0 94
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+n@a@n@d4
+vBCDCounter
+R0
+!i10b 1
+!s100 MiRfok[^1<J6iI;BC]RLM3
+IMeTFB]?iU:ml0:0ZaA1iM0
+R1
+R2
+Z11 w1412216267
+Z12 8C:/Users/Colin/Documents/School/EE460M/Lab2/BCDCounter.v
+Z13 FC:/Users/Colin/Documents/School/EE460M/Lab2/BCDCounter.v
+L0 1
+R6
+r1
+!s85 0
+31
+Z14 !s108 1412216566.222000
+Z15 !s107 C:/Users/Colin/Documents/School/EE460M/Lab2/BCDCounter.v|
+Z16 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Colin/Documents/School/EE460M/Lab2/BCDCounter.v|
+!s101 -O0
+!i113 1
+R10
+n@b@c@d@counter
+vBCDCounter_100
+R0
+!i10b 1
+!s100 4;gCTU:a8DzkZj10Jc72<2
+ID?F2D24^dHBMam05P0E143
+R1
+R2
+R11
+R12
+R13
+L0 35
+R6
+r1
+!s85 0
+31
+R14
+R15
+R16
+!s101 -O0
+!i113 1
+R10
+n@b@c@d@counter_100
+vDFF
+R0
+!i10b 1
+!s100 oP<GPHgdM9FAOTD0Z8G=C1
+ISd;_^QE4`o]J]<Z;dgVn41
+R1
+R2
+R3
+R4
+R5
+L0 49
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+n@d@f@f
+vInverter1
+R0
+!i10b 1
+!s100 V_lPkN;;GinhnbWRaomZz2
+IK7HYQ<l39N4W2Alm;P2Y_3
+R1
+R2
+R3
+R4
+R5
+L0 101
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+n@inverter1
+vOR3
+R0
+!i10b 1
+!s100 ]iaQSBLH^]a2612:hIGbW1
+ITMo62Qi[JNm165nRSOFZl1
+R1
+R2
+R3
+R4
+R5
+L0 66
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+n@o@r3
+vOR4
+R0
+!i10b 1
+!s100 z<=YX[n1EAFMd`6B8XYBf1
+I:?EIOTkjKaX>YXfgNJ]XV0
+R1
+R2
+R3
+R4
+R5
+L0 73
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+n@o@r4
+vPlus3_Behav
+Z17 !s110 1412216565
+!i10b 1
+!s100 ROmCl5YndT^h>UB1=o<Df3
+IRlL5]KT15d2K>kDiZV^Sd2
+R1
+R2
+w1412176472
+8C:\Users\Colin\Documents\School\EE460M\Lab2\Plus3_Behav.v
+FC:\Users\Colin\Documents\School\EE460M\Lab2\Plus3_Behav.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1412216565.879000
+!s107 C:\Users\Colin\Documents\School\EE460M\Lab2\Plus3_Behav.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Colin\Documents\School\EE460M\Lab2\Plus3_Behav.v|
+!s101 -O0
+!i113 1
+R10
+n@plus3_@behav
+vPlus3_Flow
+R17
+!i10b 1
+!s100 N?Rj[fmAPGb@Dc>lk5@Ea0
+IkdGj[oGS;4MJEKfk=RVlL3
+R1
+R2
+w1412192255
+8C:\Users\Colin\Documents\School\EE460M\Lab2\Plus3_Flow.v
+FC:\Users\Colin\Documents\School\EE460M\Lab2\Plus3_Flow.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1412216565.956000
+!s107 C:\Users\Colin\Documents\School\EE460M\Lab2\Plus3_Flow.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Colin\Documents\School\EE460M\Lab2\Plus3_Flow.v|
+!s101 -O0
+!i113 1
+R10
+n@plus3_@flow
+vPlus3_Struct
+R0
+!i10b 1
+!s100 2X]j^bLaa;9WcDJ@BAMW03
+IZK^:j^i33]0BFS<RcRkGS0
+R1
+R2
+R3
+R4
+R5
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+n@plus3_@struct
