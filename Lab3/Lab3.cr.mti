@@ -1,0 +1,22 @@
+C:/Users/Colin/Documents/School/EE460M/Lab3/Sorter_Testbench.v {1 {vlog -work work -stats=none C:/Users/Colin/Documents/School/EE460M/Lab3/Sorter_Testbench.v
+Model Technology ModelSim PE Student Edition vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module Testbench
+
+Top level modules:
+	Testbench
+
+} {} {}} C:/Users/Colin/Documents/School/EE460M/Lab3/Package_Sorter.v {1 {vlog -work work -stats=none C:/Users/Colin/Documents/School/EE460M/Lab3/Package_Sorter.v
+Model Technology ModelSim PE Student Edition vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module Package_Sorter
+
+Top level modules:
+	Package_Sorter
+
+} {} {}} C:/Users/Colin/Documents/School/EE460M/Lab3/Traffic_Light.v {1 {vlog -work work -stats=none C:/Users/Colin/Documents/School/EE460M/Lab3/Traffic_Light.v
+Model Technology ModelSim PE Student Edition vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module TrafficLightController
+
+Top level modules:
+	TrafficLightController
+
+} {} {}}

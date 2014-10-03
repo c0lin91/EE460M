@@ -1,0 +1,76 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.3c/examples
+vPackage_Sorter
+Z0 !s110 1412378939
+!i10b 1
+!s100 gEkc[V39cz@6T_anL:R2G0
+ImEeN1Hm334DLb8lOzaLEF1
+Z1 V`JN@9S9cnhjKRR_L]QIcM3
+Z2 dC:/Users/Colin/Documents/School/EE460M/Lab3
+w1412376351
+8C:/Users/Colin/Documents/School/EE460M/Lab3/Package_Sorter.v
+FC:/Users/Colin/Documents/School/EE460M/Lab3/Package_Sorter.v
+L0 1
+Z3 OP;L;10.3c;59
+r1
+!s85 0
+31
+!s108 1412378939.515000
+!s107 C:/Users/Colin/Documents/School/EE460M/Lab3/Package_Sorter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Colin/Documents/School/EE460M/Lab3/Package_Sorter.v|
+!s101 -O0
+!i113 1
+Z4 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+n@package_@sorter
+vTestbench
+R0
+!i10b 1
+!s100 d;3;RLag87k>[f<6;F?:Y0
+I8oJBZgci5G1C0@D1BE5@92
+R1
+R2
+w1412378934
+8C:/Users/Colin/Documents/School/EE460M/Lab3/Sorter_Testbench.v
+FC:/Users/Colin/Documents/School/EE460M/Lab3/Sorter_Testbench.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1412378939.719000
+!s107 C:/Users/Colin/Documents/School/EE460M/Lab3/Sorter_Testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Colin/Documents/School/EE460M/Lab3/Sorter_Testbench.v|
+!s101 -O0
+!i113 1
+R4
+n@testbench
+vTrafficLightController
+R0
+!i10b 1
+!s100 >@_OcZAH94gXU<_ZlO1=80
+IG^DzV7@NnfkI0dm9Kz46A2
+R1
+R2
+w1412301977
+8C:/Users/Colin/Documents/School/EE460M/Lab3/Traffic_Light.v
+FC:/Users/Colin/Documents/School/EE460M/Lab3/Traffic_Light.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1412378939.599000
+!s107 C:/Users/Colin/Documents/School/EE460M/Lab3/Traffic_Light.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Colin/Documents/School/EE460M/Lab3/Traffic_Light.v|
+!s101 -O0
+!i113 1
+R4
+n@traffic@light@controller
