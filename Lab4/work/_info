@@ -1,0 +1,207 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Colin/Documents/School/EE460M/Lab3
+vAdder9999
+Z0 !s110 1413401609
+!i10b 1
+!s100 D6mXV^P]3EQGleoUib3]N2
+IRQLLhgFEnH3l`nOhb:DNR1
+Z1 V`JN@9S9cnhjKRR_L]QIcM3
+Z2 dC:/Users/Colin/Documents/School/EE460M/Lab4
+w1413401280
+8C:\Users\Colin\Documents\School\EE460M\Lab4\Adder9999.v
+FC:\Users\Colin\Documents\School\EE460M\Lab4\Adder9999.v
+L0 3
+Z3 OP;L;10.3c;59
+r1
+!s85 0
+31
+!s108 1413401609.402000
+!s107 C:\Users\Colin\Documents\School\EE460M\Lab4\Adder9999.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Colin\Documents\School\EE460M\Lab4\Adder9999.v|
+!s101 -O0
+!i113 1
+Z4 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+n@adder9999
+vBCD4
+R0
+!i10b 1
+!s100 >Wjb;k>`6gCiMN7EDOd;V0
+In5oE@=R:Oz?h4OAQXRn;20
+R1
+R2
+w1413398256
+8C:\Users\Colin\Documents\School\EE460M\Lab4\4DigitBCD.v
+FC:\Users\Colin\Documents\School\EE460M\Lab4\4DigitBCD.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1413401609.157000
+!s107 C:\Users\Colin\Documents\School\EE460M\Lab4\4DigitBCD.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Colin\Documents\School\EE460M\Lab4\4DigitBCD.v|
+!s101 -O0
+!i113 1
+R4
+n@b@c@d4
+vbcd_seven
+Z5 !s110 1413401608
+!i10b 1
+!s100 13I4R9B9;5X;QJTUP7Pno3
+I8MJ0[7MkJ]0j]Ljzd^ZYZ3
+R1
+R2
+w1413247404
+8C:\Users\Colin\Documents\School\EE460M\Lab4\work\bcd_seven.v
+FC:\Users\Colin\Documents\School\EE460M\Lab4\work\bcd_seven.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1413401608.097000
+!s107 C:\Users\Colin\Documents\School\EE460M\Lab4\work\bcd_seven.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Colin\Documents\School\EE460M\Lab4\work\bcd_seven.v|
+!s101 -O0
+!i113 1
+R4
+vBCDCounterA
+R0
+!i10b 1
+!s100 cF^FdWO]Q@06n57NNa2n:2
+IzRVnfU`f;H7>OZFjMWjzW2
+R1
+R2
+w1413401515
+8C:/Users/Colin/Documents/School/EE460M/Lab4/work/BCDCounterA.v
+FC:/Users/Colin/Documents/School/EE460M/Lab4/work/BCDCounterA.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1413401609.652000
+!s107 C:/Users/Colin/Documents/School/EE460M/Lab4/work/BCDCounterA.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Colin/Documents/School/EE460M/Lab4/work/BCDCounterA.v|
+!s101 -O0
+!i113 1
+R4
+n@b@c@d@counter@a
+vcontrollerModule
+R5
+!i10b 1
+!s100 m1:D4_cUY[?5lHmGZWXmo1
+IPR_QCkaIbaOJ0P8;KA@?K3
+R1
+R2
+w1413401600
+8C:\Users\Colin\Documents\School\EE460M\Lab4\work\controllerModule.v
+FC:\Users\Colin\Documents\School\EE460M\Lab4\work\controllerModule.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1413401608.307000
+!s107 C:\Users\Colin\Documents\School\EE460M\Lab4\work\controllerModule.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Colin\Documents\School\EE460M\Lab4\work\controllerModule.v|
+!s101 -O0
+!i113 1
+R4
+ncontroller@module
+vDebounceAndSp
+R5
+!i10b 1
+!s100 z2kWzzCQ01I[646dSLM`h1
+IIJj20LTzlLW6dFA88d7[g0
+R1
+R2
+w1413333555
+8C:\Users\Colin\Documents\School\EE460M\Lab4\DebounceAndSp.v
+FC:\Users\Colin\Documents\School\EE460M\Lab4\DebounceAndSp.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1413401608.922000
+!s107 C:\Users\Colin\Documents\School\EE460M\Lab4\DebounceAndSp.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Colin\Documents\School\EE460M\Lab4\DebounceAndSp.v|
+!s101 -O0
+!i113 1
+R4
+n@debounce@and@sp
+vinputModule
+R5
+!i10b 1
+!s100 nIUHa1McTdhaBYc5zQG5M1
+IlnL=GE__0;]DdcW6Ra]GJ2
+R1
+R2
+w1413333567
+8C:\Users\Colin\Documents\School\EE460M\Lab4\work\inputModule.v
+FC:\Users\Colin\Documents\School\EE460M\Lab4\work\inputModule.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1413401608.502000
+!s107 C:\Users\Colin\Documents\School\EE460M\Lab4\work\inputModule.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Colin\Documents\School\EE460M\Lab4\work\inputModule.v|
+!s101 -O0
+!i113 1
+R4
+ninput@module
+voutputModule
+R5
+!i10b 1
+!s100 BfJ[BElW<8fQ2h[=]6Tgg2
+IJg49f12STi?OYI89fFDVa0
+R1
+R2
+w1413333559
+8C:\Users\Colin\Documents\School\EE460M\Lab4\work\outputModule.v
+FC:\Users\Colin\Documents\School\EE460M\Lab4\work\outputModule.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1413401608.712000
+!s107 C:\Users\Colin\Documents\School\EE460M\Lab4\work\outputModule.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Colin\Documents\School\EE460M\Lab4\work\outputModule.v|
+!s101 -O0
+!i113 1
+R4
+noutput@module
+vtrafficMeter
+!s110 1413401607
+!i10b 1
+!s100 F3kO1OO6WN4lV0mP;YR3:2
+I=:`K^hAd?[KH1Uoj8QMoG0
+R1
+R2
+w1413333574
+8C:\Users\Colin\Documents\School\EE460M\Lab4\work\trafficMeter.v
+FC:\Users\Colin\Documents\School\EE460M\Lab4\work\trafficMeter.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1413401607.932000
+!s107 C:\Users\Colin\Documents\School\EE460M\Lab4\work\trafficMeter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Colin\Documents\School\EE460M\Lab4\work\trafficMeter.v|
+!s101 -O0
+!i113 1
+R4
+ntraffic@meter
